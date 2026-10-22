@@ -4,7 +4,7 @@ Eksamensklar er en personlig leseplanlegger for studenter. Du legger inn eksamen
 
 Det er en ren frontend-app (React + Vite + TypeScript). All data lagres i nettleserens localStorage, og appen har ingen innlogging eller backend.
 
-**Demo:** _lenke kommer_
+**Demo:** https://zabi123456789.github.io/eksamensklar/ · **Kode:** https://github.com/Zabi123456789/eksamensklar
 
 ## Funksjoner
 
